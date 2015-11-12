@@ -7,5 +7,6 @@ class HelloWorld {
         System.out.println("Hello T-Mobile!"); //Display the string.
 	//add a comment so a code change is sensed
 	//another change, be sure to get the tag correct!
+    //Finally!  Eclipse "sees" tmodemo on github
     }
 }
