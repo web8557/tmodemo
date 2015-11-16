@@ -10,5 +10,6 @@ class HelloWorld {
     //Finally!  Eclipse "sees" tmodemo on github
         System.out.println("Hello ALI");
         System.out.println("Add Release info");
+        System.out.println("Link to a defect");
     }
 }
