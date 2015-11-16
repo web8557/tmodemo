@@ -9,5 +9,6 @@ class HelloWorld {
 	//another change, be sure to get the tag correct!
     //Finally!  Eclipse "sees" tmodemo on github
         System.out.println("Hello ALI");
+        System.out.println("Add Release info");
     }
 }
