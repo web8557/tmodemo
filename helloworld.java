@@ -12,5 +12,6 @@ class HelloWorld {
         System.out.println("Add Release info");
         System.out.println("Link to a defect");
         System.out.println("CodeChange test 4, add release to branch");
+        System.out.println("Disable alidemo build config");
     }
 }
