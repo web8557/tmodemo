@@ -11,5 +11,6 @@ class HelloWorld {
         System.out.println("Hello ALI");
         System.out.println("Add Release info");
         System.out.println("Link to a defect");
+        System.out.println("CodeChange test 1");
     }
 }
