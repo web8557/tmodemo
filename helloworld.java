@@ -15,5 +15,6 @@ class HelloWorld {
         System.out.println("Add another line");
         System.out.println("Try another build");
         System.out.println("Add SCM to build config");
+        System.out.println("Delete and re-add ALM build config");
     }
 }
