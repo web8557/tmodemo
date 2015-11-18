@@ -14,5 +14,6 @@ class HelloWorld {
         System.out.println("CodeChange test 7");
         System.out.println("Add another line");
         System.out.println("Try another build");
+        System.out.println("Add SCM to build config");
     }
 }
