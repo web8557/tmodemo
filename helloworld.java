@@ -13,5 +13,6 @@ class HelloWorld {
         System.out.println("Link to a defect");
         System.out.println("CodeChange test 7");
         System.out.println("Add another line");
+        System.out.println("Try another build");
     }
 }
