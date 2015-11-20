@@ -17,5 +17,6 @@ class HelloWorld {
         System.out.println("Add SCM to build config");
         System.out.println("Delete and re-add ALM build config3");
         System.out.println("Now link to defect #2");
+        System.out.println("Try to launch a UFT test");
     }
 }
