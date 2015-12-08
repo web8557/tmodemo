@@ -19,6 +19,6 @@ class HelloWorld {
         System.out.println("Delete and re-add ALM build config3");
         System.out.println("Now link to defect #2");
         System.out.println("Try to launch a UFT test");
-        System.out.println("First December build");
+        System.out.println("Second December build");
     }
 }
